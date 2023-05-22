@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-🌟 Welcome to my GitHub Profile! 🌟
+🌟 Welcome to my GitHub Profile! 🌟 my world of analytics and quality! 🌟
 
-👋 Hello, fellow explorer of data and culinary delights! I'm Pallavi Hunswadkar🌸, currently a graduate student pursuing my Masters in Business Analytics. With 6 years of experience as a Quality Analyst, I bring a keen eye for detail to this captivating adventure. ✨
+👋 Hello, 🎓 I'm [Pallavi Hunswadkar] 🌸, a passionate explorer currently on the journey of pursuing my Masters in Business Analytics. With 6 years of professional experience as a Quality Analyst, I bring a keen eye for detail and a sprinkle of magic to the realms of data and analysis. ✨
+
+💼 My career path has led me to unravel the intricacies of quality assessment, ensuring that every aspect shines with perfection. From uncovering hidden patterns to fine-tuning processes, I've honed my skills to create a world of flawless outcomes. 🌟
 
 🍁 I believe in embracing the wonders of life, finding inspiration in the little things, and always seeking opportunities to grow and learn.
 
