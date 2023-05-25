@@ -14,4 +14,5 @@
 
 🐶 Fun fact about me: My heart brims with love not just for dogs, but also for our feline companions🐱. Stray dogs and cats hold a special place in my heart, and I dedicate my free time to feeding and caring for them. I find immense joy in nourishing these pure souls in my neighborhood, ensuring they feel loved and cared for. Their wagging tails and gentle purrs brighten my days and remind me of the power of compassion. 🐾❤️
 
-🌟 May our data insights sparkle, the celestial knowledge guide us, the flavors mesmerize our senses, and the love we share with our Family, Friends and our furry buddies illuminate our path! 🌟
+🌱 I’m currently learning:
+The concepts of data analysis & More advanced uses of Python, R, Power BI, SnowFlake, Tableau and SQL
