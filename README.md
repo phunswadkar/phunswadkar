@@ -8,5 +8,6 @@
 
 Skills:
 Programming Languages and Tools: Python, R, SQL, Tableau, Power BI, Snowflake, GIT, JIRA, AWS, Solver Table, Microsoft Office Suite (Word, Excel, PowerPoint).
+
 Techniques: Supervised learning (Multiple Linear Regression, Knn Algorithm, Classification Tree, Regression Tree, Logistic regression, Neural Networks), Unsupervised algorithms (K-means Clustering, Association Rules, Collaborative Filtering (recommender systems), Statistical Modelling, Hypothesis testing, Data Visualization, Time Series Analytics, Prediction Analytics.
 
