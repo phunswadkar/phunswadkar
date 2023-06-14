@@ -10,4 +10,4 @@ Programming Languages and Tools: Python, R, SQL, Tableau, Power BI, Snowflake, G
 Techniques: Supervised learning (Multiple Linear Regression, Knn Algorithm, Classification Tree, Regression Tree, Logistic regression, Neural Networks), Unsupervised algorithms (K-means Clustering, Association Rules, Collaborative Filtering (recommender systems), Statistical Modelling, Hypothesis testing, Data Visualization, Time Series Analytics, Predictive Analytics.
 
 Projects links:
-- [link1](Data-Analytics-Real-Estate-Analysis-and-price-prediction-in-Bay-Area) : My first project
+- [Data-Analytics-Real-Estate-Analysis-and-price-prediction-in-Bay-Area](https://github.com/phunswadkar/Data-Analytics-Real-Estate-Analysis-and-price-prediction-in-Bay-Area) : My first project
