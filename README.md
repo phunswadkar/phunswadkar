@@ -10,7 +10,7 @@ Programming Languages and Tools: Python, R, SQL, Tableau, Power BI, Snowflake, G
 Techniques: Supervised learning (Multiple Linear Regression, Knn Algorithm, Classification Tree, Regression Tree, Logistic regression, Neural Networks), Unsupervised algorithms (K-means Clustering, Association Rules, Collaborative Filtering (recommender systems), Statistical Modelling, Hypothesis testing, Data Visualization, Time Series Analytics, Predictive Analytics.
 
 ## Project links:
--[Machine_learning-Supervised-study--wine-quality-prediction](https://github.com/phunswadkar/Machine_learning-Supervised-study--wine-quality-prediction)
+- [Machine_learning-Supervised-study--wine-quality-prediction](https://github.com/phunswadkar/Machine_learning-Supervised-study--wine-quality-prediction)
 - [Data-Analytics-Real-Estate-Analysis-and-price-prediction-in-Bay-Area](https://github.com/phunswadkar/Data-Analytics-Real-Estate-Analysis-and-price-prediction-in-Bay-Area)
 - [Monthly Sales Forecasting of a Supplement Manufacturing Comapny](https://github.com/phunswadkar/Time_Series_Analytics-Sales-Forecasting)
 - [Covid19-Data-Analysis](https://github.com/phunswadkar/Covid19-Data-Analysis)
