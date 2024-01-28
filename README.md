@@ -2,12 +2,17 @@
 
 🌟 Welcome to my GitHub Profile! 🌟
 
-👋 Hello, 🎓 I'm Pallavi Hunswadkar, a passionate explorer currently on the journey of pursuing my Masters in Business Analytics. With 5+ years of professional experience as a Quality Analyst, I bring a keen eye for detail and a sprinkle of magic to the realms of data and analysis✨
+👋 Hello, 🎓 I'm Pallavi Hunswadkar, Experienced Functional Analyst with over 6+ years of work experience in the software IT industry and a Masters degree in Business Analytics from California State University, East Bay. Equipped with a robust skill set encompassing requirements gathering, documentation, analysis, solution design, communication, testing support, and continuous improvement.✨
 
 ## Skills:
-Programming Languages and Tools: Python, R, SQL, Tableau, Power BI, Snowflake, GIT, JIRA, AWS, Solver Table, Microsoft Office Suite (Word, Excel, PowerPoint).
+Programming Languages and Tools: Python, R, SQL, Java, Big Data Analytics: Hadoop, MapReduce, Apache-PySpark, Pig, Hive, Hbase, Tableau, Power BI, Snowflake, GIT, JIRA, AWS-Redshift, EMR, Glue, Lambda, Google-BigQuery, Solver Table, Pivot tables, Microsoft Office Suite (Word, Excel, PowerPoint)
+Confluence, SharePoint.
 
-Techniques: Supervised learning (Multiple Linear Regression, Knn Algorithm, Classification Tree, Regression Tree, Logistic regression, Neural Networks), Unsupervised algorithms (K-means Clustering, Association Rules, Collaborative Filtering (recommender systems), Statistical Modelling, Hypothesis testing, Data Visualization, Time Series Analytics, Predictive Analytics.
+SDLC Methodologies: AGILE - SCRUM, Waterfall, SAFe
+
+Business Skills: Process Modeling, Change Management, SWOT Analysis, JAD Sessions 
+
+Techniques: Data extraction, Data Warehousing, Visualization using Tableau, Data Modelling, Machine Learning/Data Mining- Supervised learning (Multiple Linear Regression, Knn Algorithm, Decision Trees, Classification Tree, Random Forest, Logistic regression, Neural Networks,SVM, Naïve Bayes), Unsupervised algorithms (K- means Clustering, Association Rules, Collaborative Filtering (recommender systems), Statistical Modelling, Hypothesis testing, Time Series Analytics, Predictive Analytics, Prescriptive Analytics.
 
 ## Project links:
 - [Machine_learning-Supervised-study-wine-quality-prediction](https://github.com/phunswadkar/Machine_learning-Supervised-study--wine-quality-prediction)
